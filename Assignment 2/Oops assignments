@@ -1,1 +1,34 @@
+package javaFirstProject;
+
+ abstract class Shapes1 {
+	 
+	 
+	 
+	 abstract void draw();
+ }
+ class Line extends Shapes1{
+	 void draw(){System.out.println("draw line");}
+	 }
+                                                                                                                                           
+ class Rectangle extends Shapes1{
+ void draw(){System.out.println("draw rectangle");}
+ }
+ class Circle extends Shapes1
+ {
+	 void draw(){System.out.println("draw circle");}
+	 }
+
+ class Shapes{
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Shapes1 l=new Line();
+		Shapes1 s=new Circle();
+		Shapes1 r=new Rectangle();
+		
+		s.draw();
+		r.draw();
+		l.draw();
+	}
+
+}
 

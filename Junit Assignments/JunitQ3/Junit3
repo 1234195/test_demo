@@ -1,0 +1,27 @@
+
+public class Junit3 
+{
+	private int bal;
+	
+	
+	public Junit3() 
+	{
+		bal=10000;
+	}
+	public int getBalance() 
+	{
+		return bal;
+	}
+	public void withdraw(int cash) throws InsufficientBalException
+	{
+		if(cash>bal)
+			
+			throw new InsufficientBalException("Insufficent Balance");
+		else
+			
+			bal=bal-cash;
+	}
+
+	
+	
+}

@@ -1,0 +1,11 @@
+.link {
+    background-color: rgb(186, 186, 231);
+    width: 635px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+a {
+    color: rgb(245, 115, 29);
+}

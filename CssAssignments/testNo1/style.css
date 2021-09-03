@@ -1,0 +1,35 @@
+.background {
+    width: 635px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.inner {
+    width: 630px;
+    margin: 0px;
+    border: 1px solid rgb(243, 237, 226);
+    background-color: rgb(156, 127, 224);
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.inner1 {
+    width: 630px;
+    margin: 0px;
+    border: 1px solid rgb(243, 237, 226);
+    background-color: rgb(153, 131, 206);
+}
+
+.inner2 {
+    width: 630px;
+    margin: 0px;
+    border: 1px solid rgb(243, 237, 226);
+    background-color: rgb(182, 163, 228);
+}
+
+.inner3 {
+    width: 630px;
+    margin: 0px;
+    border: 1px solid rgb(243, 237, 226);
+    background-color: rgb(178, 166, 206);
+}

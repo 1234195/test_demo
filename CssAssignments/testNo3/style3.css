@@ -1,0 +1,15 @@
+.text {
+    background-color: rgb(186, 186, 231);
+    width: 635px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.uppercaseText {
+    text-transform: uppercase;
+}
+
+.lowerCaseText {
+    text-transform: lowercase;
+}

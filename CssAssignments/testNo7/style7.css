@@ -1,0 +1,22 @@
+.outer {
+    width: 660px;
+    margin: 8px;
+    border: 1px solid black;
+}
+
+.inner {
+    width: 630px;
+    margin: 0px;
+    border: 2px solid orange;
+}
+
+.inner1 {
+    width: 634px;
+    margin: 10px;
+    border-style: dotted;
+    border: 4px dotted rgb(11, 238, 79);
+}
+
+.fontSize {
+    font-size: x-large;
+}

@@ -1,0 +1,22 @@
+.borderRadious {
+    width: 660px;
+    border: 1px solid black;
+}
+
+.boderten {
+    width: 647px;
+    border: 7px solid black;
+    background-color: rgb(196, 180, 233);
+}
+
+.boderFive {
+    width: 654px;
+    border: 4px solid black;
+    background-color: rgb(196, 180, 233);
+}
+
+.boderOne {
+    width: 659px;
+    border: 1px solid black;
+    background-color: rgb(196, 180, 233);
+}
